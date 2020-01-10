@@ -17,4 +17,4 @@ Discord.js Link : https://discord.js.org/#/
 
 Project Github Link : https://github.com/Abirul/BOT
 
-Go to youtube tutorial : 
+Go to youtube tutorial : https://youtu.be/4kmx-ecdy0I
